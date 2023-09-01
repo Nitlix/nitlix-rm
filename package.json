@@ -1,0 +1,9 @@
+{
+  "name": "nitlix-rm",
+  "version": "1.0.0",
+  "description": "⌚ A modern, fast and vanilla rate limiter for asynchronous Node.js applications, built with TypeScript 🚀.",
+  "main": "./dist/rm.js",
+  "keywords": ["rate", "rate limiter", "rates", "nitlix"],
+  "author": "nitlix",
+  "license": "MIT"
+}
